@@ -1,0 +1,61 @@
+3 15
+
+tower02
+overcast-sky
+17 5 188 197
+
+tower02
+tower
+202 7 247 197
+
+tower02
+blue-ocean
+6 208 253 252
+
+palace_001
+dusthaze-sky
+9 5 247 60
+
+palace_001
+front-building
+7 72 253 228
+
+palace_001
+yellow-field
+9 221 256 257
+
+field34
+tree
+14 8 247 120
+
+field34
+green-field
+8 142 250 250
+
+street_par85
+dusthaze-sky
+102 1 162 122
+
+street_par85
+perspective-building
+163 3 251 173
+
+street_par85
+perspective-building
+7 2 119 157
+
+street_par85
+road
+34 155 251 249
+
+mountain_009
+cloudy-sky
+10 3 254 50
+
+mountain_009
+rocky-mountain
+17 63 242 172
+
+mountain_009
+green-field
+5 182 249 257

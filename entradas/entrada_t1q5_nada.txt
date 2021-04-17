@@ -1,0 +1,61 @@
+5 15
+
+ibis_004
+white-ibis
+30 103 218 205
+
+ibis_004
+blue-ocean
+3 5 210 90
+
+ibis_004
+blue-ocean
+18 198 242 254
+
+mountain_054
+blue-sky
+11 5 249 52
+
+mountain_054
+snowy-mountain
+8 56 256 244
+
+ibis_032
+black-ibis
+85 6 245 199
+
+ibis_032
+green-field
+3 73 112 248
+
+ibis_032
+green-field
+131 5 250 72
+
+ibis_032
+green-field
+9 196 255 256
+
+street_par177
+perspective-building
+151 30 261 170
+
+street_par177
+perspective-building
+0 0 108 159
+
+street_par177
+road
+75 158 252 252
+
+opencountry_172
+yellow-field
+6 171 250 252
+
+opencountry_172
+tree
+7 123 255 169
+
+opencountry_172
+blue-sky
+9 1 253 127

@@ -1,0 +1,6 @@
+a,b=input().lower().split()
+base = "font";n=len(base)
+number = int("".join(map(str,map(base.index,a))),n)+int("".join(map(str,map(base.index,b))),n)
+numberInBase = (lambda nu,nr='':(base[0]+nr if nu==0 else numberInBase(nu//n,base[nu%n]+nr)))
+nn = numberInBase(number)
+print(nn if len(nn)==1 else nn[1:])
