@@ -1,7 +1,7 @@
 matrix=[
     ["X","O","X"],
     ["O","X","O"],
-    ["O","X","-"]
+    ["O","-","X"]
 ]
 lines = [matrix[0],matrix[1],matrix[2],
          [matrix[0][i] for i in range(3)],
